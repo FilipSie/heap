@@ -1,0 +1,68 @@
+﻿„Heapsort.exe” (Win32): załadowano „C:\Users\filip\source\repos\Heapsort\Debug\Heapsort.exe”. Symbole zostały załadowane.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\ntdll.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): zwolniono „C:\Windows\SysWOW64\kernel32.dll”
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\KernelBase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\user32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\win32u.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\winmm.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\opengl32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\advapi32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcrt.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\gdi32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\sechost.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\winmmbase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\gdi32full.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\rpcrt4.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\cfgmgr32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\sspicli.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\cryptbase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcp140d.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\vcruntime140d.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\bcryptprimitives.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\ucrtbased.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\ddraw.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\glu32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\dciman32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+Błąd: nie można znaleźć elementu „C:\Users\filip\source\repos\Heapsort\Heapsort\Debug\Heapsort.obj”. Element Heapsort.exe został utworzony z opcją /DEBUG:FASTLINK, która wymaga plików obiektów w celu debugowania.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\imm32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\uxtheme.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\combase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\ucrtbase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\msctf.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\oleaut32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcp_win.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\amdhdl32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\shlwapi.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): zwolniono „C:\Windows\SysWOW64\shlwapi.dll”
+„Heapsort.exe” (Win32): zwolniono „C:\Windows\SysWOW64\amdhdl32.dll”
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\ig8icd32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\shell32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\windows.storage.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\powrprof.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\shlwapi.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel.appcore.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\SHCore.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\profapi.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\igdusc32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\wtsapi32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\dwmapi.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\version.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): zwolniono „C:\Windows\SysWOW64\version.dll”
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\dinput.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\hid.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\setupapi.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\devobj.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\wintrust.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\msasn1.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\crypt32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Heapsort.exe” (Win32): załadowano „C:\Windows\SysWOW64\ole32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+Wątek 0x1604 zakończył działanie z kodem 0 (0x0).
+Wątek 0x1e58 zakończył działanie z kodem 0 (0x0).
+Wątek 0x1168 zakończył działanie z kodem 0 (0x0).
+Wątek 0x1da0 zakończył działanie z kodem 0 (0x0).
+Wątek 0x102c zakończył działanie z kodem 0 (0x0).
+Wątek 0x54c zakończył działanie z kodem 0 (0x0).
+Wątek 0x494 zakończył działanie z kodem 0 (0x0).
+Program „[8928] Heapsort.exe” zakończył działanie z kodem 0 (0x0).
